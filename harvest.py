@@ -181,7 +181,6 @@ def process_log(log_file,Melons,get_sellability_report):
             harvester=harvester,
             harvest_field=field,))
             
-        
         print(harvest_melons)
  
 get_sellability_report(harvest_melons)
